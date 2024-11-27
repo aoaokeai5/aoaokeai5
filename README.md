@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on something made me fun
 - 📫 You can contact me with X, Facebook, LinkedIn, QQ, We Chat, Telegram, Messenger, Whatsapp, Threads and even Discord
 - 😄 Pronouns: I am who I am
-- ⚡ Fun fact:<br> ![00359CAB](https://github.com/user-attachments/assets/50fefebe-eb76-45ec-8775-d9e3342331f3)
+- ⚡ Fun fact: 🌈
 
 ---
 - 👋 嗨，这里是: `@火花`
@@ -13,10 +13,10 @@
 - 💞️ 专注于合作一些能使我快乐的东西（？）
 - 📫 你可以通过X, Facebook, LinkedIn, QQ, 微信, Telegram, Messenger, Whatsapp, Threads 甚至 Discord 联系到我
 - 😄 代名词: 我就是我
-- ⚡ 有趣的事实:<br> ![00359CAB](https://github.com/user-attachments/assets/50fefebe-eb76-45ec-8775-d9e3342331f3)
+- ⚡ 有趣的事实: 🌈
 
 --- 
-- 友链：[焕晨HChen](https://github.com/HChenX) 宝宝
+- 友链: [焕晨HChen](https://github.com/HChenX) :two_hearts:
 <!---
 aoaokeai5/aoaokeai5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
