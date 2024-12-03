@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+
 - 👋 Hi, I’m `@HuoHua_Wolf`
 - 👀 I’m interested in Furry & a little code or just some special technology (I think?)
 - 🌱 I’m currently mahor in software Engineering in CN
