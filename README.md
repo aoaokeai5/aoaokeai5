@@ -1,3 +1,4 @@
+-![visitors](https://visitor-badge.glitch.me/badge?page_id=aoaokeai5&left_color=green&right_color=red)
 - 👋 Hi, I’m `@HuoHua_Wolf`
 - 👀 I’m interested in Furry & a little code or just some special technology (I think?)
 - 🌱 I’m currently mahor in software Engineering in CN
@@ -17,7 +18,12 @@
 
 --- 
 - bb友链: [焕晨HChen](https://github.com/HChenX) :two_hearts:
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=aoaokeai5)
+
+
+
 <!---
 aoaokeai5/aoaokeai5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
