@@ -1,4 +1,5 @@
-<center>![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+HuoHua's+Homepage;欢迎来到火花的主页)
+<center>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+HuoHua's+Homepage;欢迎来到火花的主页)
 </center>
 
 - 👋 Hi, I’m `@HuoHua_Wolf`
