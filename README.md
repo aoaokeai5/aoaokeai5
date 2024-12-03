@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=----Welcome+to+HuoHua's+Homepage+----;-----------欢迎来到火花的主页-----------)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&pause=1000&color=A8ADE7&background=FF429C00&center=true&vCenter=true&multiline=true&random=true&width=435&height=70&lines=Welcome+to+HuoHua's+Homepage;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%81%AB%E8%8A%B1%E7%9A%84%E4%B8%BB%E9%A1%B5)](https://git.io/typing-svg)
 
 ---
 - 👋 Hi, I’m `@HuoHua_Wolf`
