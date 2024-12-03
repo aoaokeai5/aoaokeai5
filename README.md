@@ -16,7 +16,7 @@
 - ⚡ 有趣的事实: 🌈
 
 --- 
-- 友链: [焕晨HChen](https://github.com/HChenX) :two_hearts:
+- bb友链: [焕晨HChen](https://github.com/HChenX) :two_hearts:
 <!---
 aoaokeai5/aoaokeai5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
