@@ -1,6 +1,4 @@
-<center>
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+HuoHua's+Homepage;欢迎来到火花的主页)
-</center>
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+HuoHua's+Homepage;欢迎来到火花的主页)
 
 - 👋 Hi, I’m `@HuoHua_Wolf`
 - 👀 I’m interested in Furry & a little code or just some special technology (I think?)
