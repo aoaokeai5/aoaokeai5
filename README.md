@@ -22,7 +22,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=aoaokeai5)
 
 
-![](https://stats.justsong.cn/api/bilibili?username=475902198&cn=true)
+![](https://stats.justsong.cn/api/bilibili/?id=475902198)
 
 
 <!---
