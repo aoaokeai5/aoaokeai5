@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aoaokeai5&left_color=green&right_color=red)
 - 👋 Hi, I’m `@HuoHua_Wolf`
 - 👀 I’m interested in Furry & a little code or just some special technology (I think?)
 - 🌱 I’m currently mahor in software Engineering in CN
@@ -22,6 +21,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aoaokeai5)
 
+
+![](https://stats.justsong.cn/api/leetcode?username=Aoaokeai5&cn=true)
 
 
 <!---
