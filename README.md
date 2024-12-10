@@ -3,7 +3,7 @@
 ---
 - 👋 Hi, I’m `@HuoHua_Wolf`
 - 👀 I’m interested in Furry & a little code or just some special technology (I think?)
-- 🌱 I’m currently mahor in software Engineering in CN
+- 🌱 I’m currently major in software Engineering in CN
 - 💞️ I’m looking to collaborate on something made me fun
 - 📫 You can contact me with X, Facebook, LinkedIn, QQ, We Chat, Telegram, Messenger, Whatsapp, Threads and even Discord
 - 😄 Pronouns: I am who I am
