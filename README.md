@@ -19,7 +19,8 @@
 - ⚡ 有趣的事实: 🌈
 
 --- 
-- 友链: [焕晨HChen](https://github.com/HChenX) :two_hearts:
+- 友链: [焕晨HChen](https://github.com/HChenX)
+        
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aoaokeai5)
